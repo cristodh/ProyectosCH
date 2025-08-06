@@ -12,3 +12,4 @@ if (3>4) {
 }
 
 const pi =3.14
+console.log(pi);
