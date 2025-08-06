@@ -10,3 +10,5 @@ if (3>4) {
     console.log("Falso");
     
 }
+
+const pi =3.14
